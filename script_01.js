@@ -18,6 +18,6 @@ let firstName; // Deklaration (Definition)
 firstName = "Max"; //Wertzuweisung
 console.log(firstName); //Ausgabe
 
-let familyName = "Mütze";
+let familyName = "Mütz";
 console.log(familyName);
 console.log(firstName + " " + familyName);
