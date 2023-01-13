@@ -13,3 +13,7 @@
 // console.log(firstName);
 
 /***** 02 Deklaration + Wertzuweisung I *******/
+
+let firstName; // Deklaration (Definition)
+firstName = "Max"; //Wertzuweisung
+console.log(firstName); //Ausgabe
