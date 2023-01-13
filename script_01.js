@@ -36,4 +36,4 @@
 
 const test = "hallo"; // Variable mit Konstantem Inhalt
 // test = "hi"; //Keine neue Zuweisung zur LZ möglich!--> Fehler
-console.log("inhalt: " + test);
+console.log("inhalt: " + test); //Ausgabe
