@@ -29,7 +29,7 @@ firstName = prompt("Bitte Vornamen eingeben. "); //Wertzuweisung
 familyName = prompt("Bitte Nachnamen eingeben. "); //Wertzuweisung
 console.log(firstName + " " + familyName); //Ausgabe
 
-
+console.log("Datentyp: " + typeof firstName);
 
 
 
