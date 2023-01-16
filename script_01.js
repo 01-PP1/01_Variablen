@@ -22,6 +22,17 @@
 // console.log(familyName);
 // console.log(firstName + " " + familyName);
 
+/***** 03 Deklaration + Wertzuweisung II *******/
+
+let firstName, familyName;
+firstName = prompt("Bitte Vornamen eingeben. "); //Wertzuweisung
+console.log(firstName); //Ausgabe
+
+
+
+
+
+
 /*JS ist eine untypisierte Sprache! | untyped */
 
 // let test; 
@@ -34,6 +45,6 @@
 
 /***** 03a Konstanten ******/
 
-const test = "hallo"; // Variable mit Konstantem Inhalt
+//const test = "hallo"; // Variable mit Konstantem Inhalt
 // test = "hi"; //Keine neue Zuweisung zur LZ möglich!--> Fehler
-console.log("inhalt: " + test); //Ausgabe
+//console.log("inhalt: " + test); //Ausgabe
