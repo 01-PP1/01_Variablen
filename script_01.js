@@ -26,7 +26,8 @@
 
 let firstName, familyName;
 firstName = prompt("Bitte Vornamen eingeben. "); //Wertzuweisung
-console.log(firstName); //Ausgabe
+familyName = prompt("Bitte Nachnamen eingeben. "); //Wertzuweisung
+console.log(firstName + " " + familyName); //Ausgabe
 
 
 
